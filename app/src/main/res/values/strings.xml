@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SlidingMenuWebView</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="imgdesc">imgdesc</string>
+    <!-- Title -->
+    <string-array name="titles">
+        <item>Facebook</item>
+        <item>Intuitive</item>
+        <item>Twitter</item>
+        <item>Google Plus</item>
+        <item>Yahoo</item>
+        <item>LinkedIn</item>
+        <item>Blogger</item>
+        <item>Wordpress</item>
+    </string-array>
+    <!-- Page Url -->
+    <string-array name="pageurl">
+        <item>http://www.facebook.com</item>
+        <item>http://www.mcpothills.com/delaroystudios/intuitive/single/index.html</item>
+        <item>https://twitter.com</item>
+        <item>https://plus.google.com</item>
+        <item>http://www.yahoo.com</item>
+        <item>http://www.linkedin.com</item>
+        <item>http://www.blogger.com</item>
+        <item>http://www.wordpress.com</item>
+    </string-array>
+    <!-- Icons -->
+    <array name="icons">
+        <item>@drawable/facebook</item>
+        <item>@drawable/intuitive</item>
+        <item>@drawable/twitter</item>
+        <item>@drawable/googleplus</item>
+        <item>@drawable/yahoo</item>
+        <item>@drawable/linkedin</item>
+        <item>@drawable/blogger</item>
+        <item>@drawable/wordpress</item>
+    </array>
+
+</resources>
